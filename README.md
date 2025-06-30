@@ -43,3 +43,8 @@ verbose-octo-computing-machine/
 Wklej wszystko pod powyższym linkiem, kliknij **Commit changes** — i gotowe! 😎  
 Chcesz, żebym teraz przygotował też plik `main.py` i dodał prostą zawartość startową?
 Uzupełniono pełne README
+cd verbose-octo-computing-machine
+cp -r ../rozpakowany-folder/* .
+git add .
+git commit -m "Dodano projekt ConnectDot"
+git push origin main
