@@ -42,3 +42,4 @@ verbose-octo-computing-machine/
 
 Wklej wszystko pod powyższym linkiem, kliknij **Commit changes** — i gotowe! 😎  
 Chcesz, żebym teraz przygotował też plik `main.py` i dodał prostą zawartość startową?
+Uzupełniono pełne README
