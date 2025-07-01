@@ -1,0 +1,14 @@
+{
+  "products": [
+    {
+      "name": "AI Assistant Pro",
+      "price_converted": { "formatted": "$49.00" },
+      "category": "Software"
+    },
+    {
+      "name": "LegalBot Checker",
+      "price_converted": { "formatted": "$99.00" },
+      "category": "Legal"
+    }
+  ]
+}
