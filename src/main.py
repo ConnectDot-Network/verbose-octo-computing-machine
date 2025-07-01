@@ -20,5 +20,5 @@ def start():
 
 if __name__ == "__main__":
     start()
-
+Zaktualizowano main.py – integracja tłumacza
 
